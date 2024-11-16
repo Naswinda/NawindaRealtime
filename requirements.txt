@@ -1,6 +1,5 @@
 streamlit
 pandas 
 pinotdb
-plotly.express 
-plotly.graph_objects 
-streamlit_autorefresh
+plotly
+
