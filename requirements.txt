@@ -2,4 +2,4 @@ streamlit
 pandas 
 pinotdb
 plotly
-
+streamlit-autorefresh
